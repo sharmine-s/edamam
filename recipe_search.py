@@ -1,8 +1,8 @@
 import requests
 from pprint import pprint
 
-app_id = '73183a37'
-app_key = '8a156cee744ffdf770e02c331cfc11ef'
+app_id = input('What is your API ID? ')
+app_key = input('What is your API key? ')
 
 ingredient = input('Which ingredient do you have? ')
 print()
