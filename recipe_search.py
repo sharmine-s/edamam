@@ -1,5 +1,4 @@
 import requests
-from pprint import pprint
 
 app_id = input('What is your API ID? ')
 app_key = input('What is your API key? ')
